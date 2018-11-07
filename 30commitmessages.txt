@@ -1,0 +1,33 @@
+[maven-release-plugin] prepare for next development iteration
+[maven-release-plugin] prepare release jmetal-5.6
+Documenting code
+Factor exception rather than exception messages.\nSee peer review of #264.
+Fix a bug in class SBXCrossover
+Fixed a bug in class GenerateWilcoxonTestTablesWithR
+Ignore an integration test which fails in the deployment
+Merge branch 'master' of https://github.com/jMetal/jMetal
+Merge branch 'master' of https://github.com/jMetal/jMetal
+Merge branch 'master' of https://github.com/jMetal/jMetal
+Merge branch 'master' of https://github.com/jMetal/jMetal
+Merge branch 'master' of https://github.com/jMetal/jMetal
+Merge branch 'master' into sonar
+Merge branch 'master' into sonar
+Merge branch 'master' into sonar
+Merge branch 'master' into sonar
+Merge branch 'sonar' of https://github.com/jMetal/jMetal into sonar
+Merge branch 'sonar' of https://github.com/jMetal/jMetal into sonar
+Merge pull request #263 from IgnacioVillalobosSalas/Performance-S2095\n\nPerformance s2095
+Merge pull request #264 from IgnacioVillalobosSalas/Mantenibilidad-S1192\n\nMantenibilidad s1192
+Merge pull request #266 from IgnacioVillalobosSalas/Maintainability-S1186\n\nMaintainability s1186
+Merge pull request #267 from IgnacioVillalobosSalas/Maintainability-S00115\n\nMaintainability
+Merge pull request #286 from matthieu-vergne/Fix_merge_263\n\nReduce try-catch scope.
+Merge pull request #287 from matthieu-vergne/Factor_exceptions_instead_strings\n\nFactor exception rather than exception messages.
+Minor changes
+Minor changes
+Minor changes
+Minor changes
+Modify pom.xml
+Reduce try-catch scope. See peer review of #263.
+Refactor some experiment examples
+Update README.md
+Update README.md

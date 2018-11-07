@@ -1,0 +1,30 @@
+add filies
+Could you give me an example about how to set the the parameters of the GDE3 algorithm?
+Crossover and Mutation parameters
+do I need to specifically formulate the use of pareto sorting when I use DE Algorithm
+Dynamic Problem
+Elitism
+How to configure GDE3 algorithm
+How to define equality constraints
+How to set constraints
+How to set the decision variable?
+How to set the target function
+How to use this with eclipse?
+I would like to ask the size of this offspring,What is the processing power of rankingAndCrowding? 
+Maintainability s3776
+Maven Repo don't have jMetal jar file
+Normalization
+NSGA-III quality of the output
+Out of memory when running larger experiments
+Problem building the project (IntelliJ IDEA)
+Problem with dynamic number of Variables
+Reliability object finalize
+Reliability s1452
+Reliability
+Reliability
+Runner algorithm problem
+SEVERE: initializeUniformWeight: failed when reading for file: /W5D_1000.dat [org.uma.jmetal.util.JMetalException <init>] java.lang.NullPointerException
+Sharing Population and Switching Algorithms.
+Support for the Many-objective Optimization
+Update Sonar in Maven
+Weight Vector Generation: set the number of vectors
